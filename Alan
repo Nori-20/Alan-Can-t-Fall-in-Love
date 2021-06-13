@@ -1,15 +1,15 @@
 {
-   "title":"Alan_Can't_Fall_in_Love",
-   "description":"How_to_fall_in_love_with_someone_who_can't_fall_in_love.",
-   "artist":"Baa_Baa_Chai",
-   "author":"Baa_Baa_Chai",
-   "cover":"http://imgur.com/a/G5hsyNB/",
+   "title":"Alan Can't Fall in Love",
+   "description":"How to fall in love with someone who can't fall in love.",
+   "artist":"Baa Baa Chai",
+   "author":"Baa Baa Chai",
+   "cover":"http://imgur.com/a/G5hsyNB.jpg",
    "chapters":{
-      "chapter_1":{
-         "title":"Love_doesn't_belong_to_me.",
+      "chapter 1":{
+         "title":"Love doesn't belong to me.",
          "volume":"1",
          "groups":{
-            "Nori8209":"/proxy/api/imgur/chapter/vapW6Af/"
+            "Nori8209":"http://imgur.com/a/vapW6Af.png"
          },
          "last_updated":"1616368746"
       }
