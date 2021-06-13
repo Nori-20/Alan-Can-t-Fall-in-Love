@@ -3,13 +3,13 @@
    "description":"How to fall in love with someone who can't fall in love.",
    "artist":"Baa Baa Chai",
    "author":"Baa Baa Chai",
-   "cover":"http://imgur.com/a/G5hsyNB.jpg",
+   "cover":"http://imgur.com/a/G5hsyNB/",
    "chapters":{
-      "chapter 1":{
+      "1":{
          "title":"Love doesn't belong to me.",
          "volume":"1",
          "groups":{
-            "Nori8209":"http://imgur.com/a/vapW6Af.png"
+            "Nori8209":"http://imgur.com/a/vapW6Af/"
          },
          "last_updated":"1616368746"
       }
